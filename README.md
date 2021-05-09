@@ -18,13 +18,14 @@ flask run
 
 ## What could be added?
 Like I previously said, this app was very rushed as I had just found out about this the day it was due (May 9th 2021) but I have plenty of ideas.
+I may make some changes in the next few days, not sure if that is allowed or not but commit dates can be viewed anyways.
 
-## Shop System
-### Adding Prices to Photos
+### Shop System
+#### Adding Prices to Photos
 When the user selects the photo to add, they will be prompted with a pop up that will allow them to add prices to each new photo they post. Would then be saved within the DB.
-### Checkout system:
+#### Checkout system:
 This could be implemented fairly easily with use of DB and python, adding to cart, checking out and security checks along the way would make for a great website.
-### Account types:
+#### Account types:
 Something I have a lot of experience with is account types, whether you are an admin, moderator or customer, access and features may be limited/extended depending on the type of account that you have
 
 
