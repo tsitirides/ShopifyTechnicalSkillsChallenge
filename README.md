@@ -2,7 +2,7 @@
 
 This project allows the uploading and choosing of photos.
 
-## DISCLAIMER: I first want to apologize for such little work, this was done in about 2 hours as I just heard about this today and wanted the oppurtunity to apply.
+### DISCLAIMER: I first want to apologize for such little work, this was done in about 2 hours as I just heard about this today and wanted the oppurtunity to apply.
 
 ## Running the application locally
 
